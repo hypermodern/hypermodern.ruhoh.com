@@ -1,4 +1,4 @@
-layout : disqus
+layout : facebook
 disqus :
   short_name : jekyllbootstrap
 livefyre :
@@ -6,7 +6,7 @@ livefyre :
 intensedebate :
   account : 123abc
 facebook :
-  appid : 123
+  appid : 216185801757014
   num_posts: 5
   width: 580
   colorscheme: light
