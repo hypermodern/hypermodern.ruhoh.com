@@ -6,6 +6,7 @@ description:
 <strong>ALL RISK - Trust In Pete Ippel</strong>
 
 <img src="http://hypermodern.net/images/all_risk_inspiration_pete_Ippel.jpg">
+
 When I was in the hospital in November 2010 I was put in a section that provided extra care for its patients. There was FALL PRECAUTION and FALL RISK...the problem was that my wrists were so skinny that it was impossible to see the text on my plastic bracelet...
 
 So in order to make the bracelet function, rather than just being a yellow band, I really wanted to cut the extra flap off...
@@ -31,6 +32,9 @@ I challenge you to find a more valuable investment than to support this Ippel Po
 I assure you it is ALL RISK, and that's exactly what you want.
 
 Thank you for your continued support.
+
 <a href="https://www.fracturedatlas.org/site/contribute/donate/6891">Make a Tax-Deductible Donation</a>
+
 <img src="https://www.fracturedatlas.org/site/images/logo.png">
+
 ALL RISK - Trust in Pete Ippel is a sponsored project of Fractured Atlas, a non-profit arts service organization. Contributions for the purposes of ALL RISK - Trust in Pete Ippel must be made payable to Fractured Atlas and are tax-deductible to the extent permitted by law. 
