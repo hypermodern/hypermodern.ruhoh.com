@@ -1,6 +1,6 @@
 ---
 title : About
-description:
+description: From FALL RISK to ALL RISK
 ---
 
 <strong>ALL RISK - Trust In Pete Ippel</strong>
