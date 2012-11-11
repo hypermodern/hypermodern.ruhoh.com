@@ -1,10 +1,10 @@
 layout : facebook
 disqus :
-  short_name : jekyllbootstrap
+  short_name :
 livefyre :
-  site_id : 123
+  site_id : 
 intensedebate :
-  account : 123abc
+  account : 
 facebook :
   appid : 216185801757014
   num_posts: 5
