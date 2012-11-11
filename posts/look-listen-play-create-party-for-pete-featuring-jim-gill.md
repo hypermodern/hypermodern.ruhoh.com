@@ -5,6 +5,15 @@ description:
 comments : true
 categories:
 ---
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=216185801757014";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <p>
  Thank you for your interest in attending this one of a kind family event! Your support and and attendance directly benefits Pete Ippel’s, ongoing social and creative works in a fun afternoon for all!
   <br>
