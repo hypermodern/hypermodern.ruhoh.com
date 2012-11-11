@@ -35,6 +35,6 @@ Thank you for your continued support.
 
 <a href="https://www.fracturedatlas.org/site/contribute/donate/6891">Make a Tax-Deductible Donation</a>
 
-<img src="https://www.fracturedatlas.org/site/images/logo.png">
+<a href="https://www.fracturedatlas.org/site/contribute/donate/6891"><img src="https://www.fracturedatlas.org/site/images/logo.png"></a>
 
 ALL RISK - Trust in Pete Ippel is a sponsored project of Fractured Atlas, a non-profit arts service organization. Contributions for the purposes of ALL RISK - Trust in Pete Ippel must be made payable to Fractured Atlas and are tax-deductible to the extent permitted by law. 
