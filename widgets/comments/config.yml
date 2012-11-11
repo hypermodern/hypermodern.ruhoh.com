@@ -5,8 +5,8 @@ livefyre :
   site_id : 
 intensedebate :
   account : 
-facebook : 216185801757014
-  appid : http://hypermodern.ruhoh.com
+facebook : 
+  appid : 216185801757014
   num_posts: 5
   width: 580
   colorscheme: light
