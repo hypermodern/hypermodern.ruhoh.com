@@ -6,7 +6,7 @@ livefyre :
 intensedebate :
   account : 
 facebook :
-  appid : 216185801757014
+  appid : "216185801757014"
   num_posts: 5
   width: 580
   colorscheme: light
