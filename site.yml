@@ -1,5 +1,5 @@
 title : ALLRISK.ORG
-tagline: Take the question marks in your life and change them into exclamation points
+tagline: Take the question marks in your life and bend them into exclamation points
 author :
   name : Pete Ippel
   email : pete@allrisk.org
@@ -8,9 +8,9 @@ author :
   feedburner : feedname
 
 navigation :
-  - archive.html
-  - tags.html
-  - categories.html
-  - pages.html
+#  - archive.html
+#  - tags.html
+#  - categories.html
+#  - pages.html
   - about.md
   
